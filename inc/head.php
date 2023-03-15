@@ -37,7 +37,6 @@
     <!-- altair admin -->
     <link rel="stylesheet" href="assets/css/main.min.css" media="all">
 
-
     <!--load swal js -->
 
     <script src="assets/js/swal.js"></script>
